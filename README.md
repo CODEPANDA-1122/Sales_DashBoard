@@ -11,13 +11,13 @@
 - [Order Details dataset](https://github.com/CODEPANDA-1122/Sales-Dashboard/blob/main/Datasets/Details.csv).
 
 ### Tools
-- Power BI for data visualisation - View [Report on power BI ](https://github.com/CODEPANDA-1122/Sales-Dashboard/Sales%20Dashboard.pbix)
+- Power BI for data visualisation - View [Report on power BI ](https://github.com/CODEPANDA-1122/Sales-Dashboard//blob/main/Sales%20Dashboard.pbix)
 
 ### _Dashboard_
 The dashboard below shows the visualization of the data.
 
 
-![Screenshot 2023-07-28 152259](https://github.com/CODEPANDA-1122/Sales-Dashboard/sales.png)
+![Screenshot 2023-07-28 152259](https://github.com/CODEPANDA-1122/Sales_DashBoard/blob/main/sales.png)
 
 
 
